@@ -69,4 +69,4 @@ Diante dessa demanda, nosso grupo projetou um sistema que substitui planilhas e 
 O código está disponível apenas para os membros do grupo, por questões de privacidade e segurança.
 
 ## 🌐 Versão de apresentação
-Você pode visualizar uma versão demonstrativa (por enquanto não é a mais atual) [aqui](https://auroramoradadosaber.pythonanywhere.com/)
+Você pode visualizar uma versão demonstrativa [aqui](https://Aurora.onrender.com/)
