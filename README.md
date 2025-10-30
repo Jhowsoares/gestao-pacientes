@@ -30,7 +30,7 @@ Diante dessa demanda, nosso grupo projetou um sistema que substitui planilhas e 
 ## 📸 Demonstração
 
 **Página inicial de apresentação**  
-![landingpage](imagens/landing_page/landing_page-intro)  
+![landingpage](imagens/landing_page/landing_page-intro.png)  
 ![landingpage](imagens/landing_page/landing_page-rotine.png)  
 ![landingpage](imagens/landing_page/landing_page-info.png)  
 ![landingpage](imagens/landing_page/landing_page-comment.png)  
