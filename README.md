@@ -55,6 +55,16 @@ Diante dessa demanda, nosso grupo projetou um sistema que substitui planilhas e 
 **Agenda**  
 ![tela-agenda](imagens/agenda/agenda.png)
 
+---
+## Resumo
+
+• Liderou equipe de 7 integrantes no desenvolvimento de sistema web voltado à gestão de pacientes idosos, melhorando organização de tarefas clínicas e administrativas.
+• Conduziu pesquisa de campo, levantando requisitos diretamente com cuidadores e profissionais de saúde para identificar gargalos operacionais.
+• Prototipou interfaces no Figma e validou fluxos com usuários, reduzindo erros de uso e retrabalho.
+• Projetou funcionalidades para lembretes de medicamentos e agendamento de rotinas, mitigando riscos de esquecimento e perdas de informação.
+• Aplicou princípios de UX, priorizando clareza visual e agilidade na tomada de decisão da equipe operacional.
+---
+
 ## 🔒 Código-fonte
 O código está disponível apenas para os membros do grupo, por questões de privacidade e segurança.
 
