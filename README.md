@@ -23,8 +23,7 @@ Diante dessa demanda, nosso grupo projetou um sistema que substitui planilhas e 
 ## 🔧 Tecnologias utilizadas
 - **Backend:** Python + Flask  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Banco de Dados:** SQLite  
-- **Hospedagem:** PythonAnywhere  
+- **Banco de Dados:** SQLite   
 - **Outros:** Git, GitHub
 
 ## 📸 Demonstração
